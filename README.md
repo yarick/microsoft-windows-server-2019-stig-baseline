@@ -1,4 +1,4 @@
-# microsoft-windows-server-2019-stig-baseline
+#  microsoft-windows-server-2019-stig-baseline
 
 InSpec profile to validate the secure configuration of Microsoft Windows Server 2019, against [DISA](https://iase.disa.mil/stigs/)'s **Microsoft Windows Server 2019 Security Technical Implementation Guide (STIG) Version 1, Release 3**.
 

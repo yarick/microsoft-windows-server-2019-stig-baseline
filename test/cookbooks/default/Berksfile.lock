@@ -1,0 +1,10 @@
+DEPENDENCIES
+  Win2019STIG
+    path: .
+    metadata: true
+  windows
+
+GRAPH
+  Win2019STIG (1.1.0)
+    windows (>= 0.0.0)
+  windows (7.0.2)

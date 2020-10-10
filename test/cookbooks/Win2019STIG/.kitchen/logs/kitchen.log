@@ -1,3 +1,0 @@
-I, [2020-10-10T16:27:18.866479 #11407]  INFO -- Kitchen: -----> Starting Test Kitchen (v2.7.2)
-I, [2020-10-10T16:27:20.223931 #11407]  INFO -- Kitchen: -----> Destroying <Win2019STIG-windows-2019>...
-I, [2020-10-10T16:27:27.451812 #11407]  INFO -- Kitchen: -----> Test Kitchen is finished. (0m8.59s)

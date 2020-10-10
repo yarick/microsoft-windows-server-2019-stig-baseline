@@ -1,4 +1,3 @@
-test/cookbooks/Win2019STIG/.kitchen
 
 *.lock
 *.gem

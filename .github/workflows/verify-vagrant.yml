@@ -46,7 +46,7 @@ jobs:
       - name: Run kitchen test
         run: |
           cd test/cookbooks/Win2019STIG
-          bundle exec kitchen test --destroy=always ${{ matrix.suite }}-ubuntu-1804 || true
+          bundle exec kitchen test ${{ matrix.suite }} || true
       - name: Display our ${{ matrix.suite }} results summary
         run: |
           cd test/cookbooks/Win2019STIG
